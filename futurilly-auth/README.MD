@@ -1,0 +1,3 @@
+# Authentication Service
+
+Firebase Authentication
